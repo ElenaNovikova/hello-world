@@ -21,3 +21,9 @@ https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163
 https://www.youtube.com/watch?v=EO6OkltgudE&list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 ### CSS Experiments #1 - Card Flipping Effect
 https://www.youtube.com/watch?v=nD8xqlh6Esk
+### Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
+### Scholarships: Webinar with Web Nanodegrees Graduates
+https://www.youtube.com/watch?v=dfXmd8unJ1Y&feature=youtu.be
+### SINFO - 2 de Março (Cameron Pittman lecture)
+https://www.youtube.com/watch?v=vI4beVEu23w
