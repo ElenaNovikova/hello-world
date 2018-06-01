@@ -27,3 +27,5 @@ https://www.youtube.com/watch?v=8aGhZQkoFbQ
 https://www.youtube.com/watch?v=dfXmd8unJ1Y&feature=youtu.be
 ### SINFO - 2 de Março (Cameron Pittman lecture)
 https://www.youtube.com/watch?v=vI4beVEu23w
+### For a better understanding of Asynch testing
+https://www.theodinproject.com/courses/javascript/lessons/async
