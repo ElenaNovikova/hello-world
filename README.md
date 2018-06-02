@@ -29,3 +29,5 @@ https://www.youtube.com/watch?v=dfXmd8unJ1Y&feature=youtu.be
 https://www.youtube.com/watch?v=vI4beVEu23w
 ### For a better understanding of Asynch testing
 https://www.theodinproject.com/courses/javascript/lessons/async
+### Dive Into HTML5 (e-book by Mark Pilgrim)
+http://diveintohtml5.info/table-of-contents.html
