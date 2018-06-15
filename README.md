@@ -31,3 +31,5 @@ https://www.youtube.com/watch?v=vI4beVEu23w
 https://www.theodinproject.com/courses/javascript/lessons/async
 ### Dive Into HTML5 (e-book by Mark Pilgrim)
 http://diveintohtml5.info/table-of-contents.html
+### JavaScript good parts
+http://crockford.com/javascript/
