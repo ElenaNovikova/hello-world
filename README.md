@@ -6,6 +6,7 @@ https://guides.github.com/activities/hello-world/
 
 ## Web Developer resources
 https://bycorsanchez.github.io/resources/
+https://dev.tube/
 ### Front-End Developer Nanodegree
 Created by Udacity Students
 https://sites.google.com/view/createdbyudacitystudents/home/fend
