@@ -5,7 +5,7 @@ Hello World (GitHub guide)
 https://guides.github.com/activities/hello-world/
 
 ## Web Developer resources
-https://bycorsanchez.github.io/resources/
+https://bycorsanchez.github.io/resources/ <br>
 https://dev.tube/
 ### Front-End Developer Nanodegree
 Created by Udacity Students
