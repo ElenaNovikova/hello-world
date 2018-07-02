@@ -6,7 +6,11 @@ https://guides.github.com/activities/hello-world/
 
 ## Web Developer resources
 https://bycorsanchez.github.io/resources/ <br>
-https://dev.tube/
+https://dev.tube/ <br>
+*Audio library for the modern web.
+howler.js makes working with audio in JavaScript easy and reliable across all platforms.* <br>
+https://howlerjs.com/ 
+
 ### Front-End Developer Nanodegree
 Created by Udacity Students
 https://sites.google.com/view/createdbyudacitystudents/home/fend
