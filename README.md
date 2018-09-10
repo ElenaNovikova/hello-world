@@ -19,7 +19,8 @@ https://sites.google.com/view/createdbyudacitystudents/home/fend <br><br>
 Udacity Career Services <br />
 https://blog.udacity.com/2018/06/new-improved-career-services.html?utm_medium=social&utm_source=LinkedIn&utm_campaign=career-services-blog-launch <br />
 Google Developer Nanodegree SCHOLARSHIP <br />
-https://sites.google.com/knowlabs.com/gdnd2017/home
+https://sites.google.com/knowlabs.com/gdnd2017/home <br />
+https://github.com/mikesprague/udacity-nanodegrees#front-end-web-developer-nanodegree
 ### Built-in Browser Support for Responsive Images
 https://www.html5rocks.com/en/tutorials/responsive/picture-element/
 ### Responsive Images Audits
