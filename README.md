@@ -12,6 +12,11 @@ howler.js makes working with audio in JavaScript easy and reliable across all pl
 https://howlerjs.com/ 
 ### SASS
 https://sass-lang.com/
+### JavaScript
+Handling Errors in JavaScript: The Definitive Guide <br>
+https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6
+Understanding Asynchronous JavaScript — the Event Loop <br>
+https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
 
 ### Front-End Developer Nanodegree
 Created by Udacity Students
