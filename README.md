@@ -17,6 +17,14 @@ Handling Errors in JavaScript: The Definitive Guide <br>
 https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6
 Understanding Asynchronous JavaScript — the Event Loop <br>
 https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+### Service Workers
+Prefetching Links using Service Workers <br>
+https://blog.bitsrc.io/prefetching-links-using-service-workers-d9f6babfd0b <br>
+Getting Started with Service Workers <br>
+https://www.sitepoint.com/getting-started-with-service-workers/
+### Node.js
+A Beginner’s Guide to Server-Side Web Development with Node.js <br>
+https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93
 
 ### Front-End Developer Nanodegree
 Created by Udacity Students
@@ -50,8 +58,6 @@ https://www.theodinproject.com/courses/javascript/lessons/async
 http://diveintohtml5.info/table-of-contents.html
 ### JavaScript good parts
 http://crockford.com/javascript/
-### Getting Started with Service Workers
-https://www.sitepoint.com/getting-started-with-service-workers/
 ### Object Equality in JavaScript
 http://adripofjavascript.com/blog/drips/object-equality-in-javascript.html
 
