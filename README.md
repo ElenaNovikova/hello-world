@@ -12,7 +12,13 @@ howler.js makes working with audio in JavaScript easy and reliable across all pl
 https://howlerjs.com/ 
 ### CSS
 Dark Mode in CSS <br>
-https://css-tricks.com/dark-modes-with-css/
+https://css-tricks.com/dark-modes-with-css/ <br>
+Dark mode design considerations <br>
+https://www.kooslooijesteijn.net/blog/dark-mode-design-considerations <br>
+Redesigning your product and website for dark mode <br>
+https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode <br>
+Dark Mode and CSS <br>
+https://files.iconfactory.net/downloads/miscellaneous/DarkModeCSS/
 ### SASS
 https://sass-lang.com/
 ### JavaScript
