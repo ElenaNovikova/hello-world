@@ -18,7 +18,9 @@ https://www.kooslooijesteijn.net/blog/dark-mode-design-considerations <br>
 Redesigning your product and website for dark mode <br>
 https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode <br>
 Dark Mode and CSS <br>
-https://files.iconfactory.net/downloads/miscellaneous/DarkModeCSS/
+https://files.iconfactory.net/downloads/miscellaneous/DarkModeCSS/ <br>
+The 30 CSS Selectors You Must Memorize <br>
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 ### SASS
 https://sass-lang.com/
 ### JavaScript
